@@ -1,0 +1,15 @@
+E:\Learning(WIT)\C#\KeyLogger\KeyLogger\bin\Release\KeyLogger.exe.config
+E:\Learning(WIT)\C#\KeyLogger\KeyLogger\bin\Release\KeyLogger.exe
+E:\Learning(WIT)\C#\KeyLogger\KeyLogger\bin\Release\KeyLogger.pdb
+E:\Learning(WIT)\C#\KeyLogger\KeyLogger\obj\Release\MainWindow.g.cs
+E:\Learning(WIT)\C#\KeyLogger\KeyLogger\obj\Release\App.g.cs
+E:\Learning(WIT)\C#\KeyLogger\KeyLogger\obj\Release\KeyLogger_MarkupCompile.cache
+E:\Learning(WIT)\C#\KeyLogger\KeyLogger\obj\Release\KeyLogger_MarkupCompile.lref
+E:\Learning(WIT)\C#\KeyLogger\KeyLogger\obj\Release\MainWindow.baml
+E:\Learning(WIT)\C#\KeyLogger\KeyLogger\obj\Release\KeyLogger.g.resources
+E:\Learning(WIT)\C#\KeyLogger\KeyLogger\obj\Release\KeyLogger.Properties.Resources.resources
+E:\Learning(WIT)\C#\KeyLogger\KeyLogger\obj\Release\KeyLogger.csproj.GenerateResource.cache
+E:\Learning(WIT)\C#\KeyLogger\KeyLogger\obj\Release\KeyLogger.csproj.CoreCompileInputs.cache
+E:\Learning(WIT)\C#\KeyLogger\KeyLogger\obj\Release\KeyLogger.exe
+E:\Learning(WIT)\C#\KeyLogger\KeyLogger\obj\Release\KeyLogger.pdb
+E:\Learning(WIT)\C#\KeyLogger\KeyLogger\obj\Release\KeyLogger.csprojAssemblyReference.cache
